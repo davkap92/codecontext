@@ -1,0 +1,41 @@
+{
+  "name": "CodeText",
+  "size": 65000,
+  "children": [
+    {
+      "name": "Frontend",
+      "size": 25000,
+      "children": [
+        {
+          "name": "php",
+          "size": 25000,
+          "children": [
+            {
+              "name": "Laravel",
+              "desc": "A modern MVC Framework",
+              "size": 15000
+            },
+            {
+              "name": "Cake",
+              "size": 15000
+            }
+          ]
+        },
+        {
+          "name": "node.js",
+          "size": 25000
+        }
+      ]
+    },
+    {
+      "name": "Backend",
+      "size": 25000,
+      "children": [
+        {
+          "name": "Java",
+          "size": 25000
+        }
+      ]
+    }
+  ]
+}
